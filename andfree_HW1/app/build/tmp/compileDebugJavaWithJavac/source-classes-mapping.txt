@@ -1,0 +1,2 @@
+com/example/andfree_hw1/BuildConfig.java
+ com.example.andfree_hw1.BuildConfig
