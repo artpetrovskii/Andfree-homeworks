@@ -1,1 +1,0 @@
-com.example.andfree_hw1.test
